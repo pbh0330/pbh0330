@@ -137,7 +137,7 @@
 </tbody>
 </table></markdown-accessiblity-table>
 <br>
-<p dir="auto">                                                                 <a href="https://solved.ac/gbs17_byeongha" rel="nofollow"><img src="https://camo.githubusercontent.com/08ae08535a69368081911b69bfa2b22c2e7f3363c79074c1d53458fc2951066e/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d696e65747479" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gbs17_byeongha" style="max-width: 100%;"></a></p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gbs17_byeongha)](https://solved.ac/gbs17_byeongha/)</a></p>
 </article>
   </div>
 
