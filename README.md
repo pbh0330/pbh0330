@@ -95,6 +95,10 @@
 <td>2023.05 ~ 2023.07</td>
 <td>딥러닝 기반 스플라인 보간법 개발</td>
 </tr>
+<tr>
+<td>2024.05 ~ 2023.07</td>
+<td>PWD식을 이용한 해양공공장소 위치제언</td>
+</tr> 
 <td>2024.09 ~ 2023.12　</td>
 <td>RoseTTA fold 구현 및 alpha 폴드 구현</a>, 생명과학 및 정보과학 멘토</td>
 </tr>
@@ -104,7 +108,7 @@
 </tr>
 <tr>
 <td>2024.05 ~ 2024.07</td>
-<td><a href="https://github.com/gbs17-Byeongha/PROJECT_CLoud">CSPM 개발 </a> 및 클라우드 보안가이드라인 작성 프로젝트, 프로젝트 메니저</td>
+<td><a href="https://github.com/gbs17-Byeongha/PROJECT_CLoud">CSPM 개발 </a> 및 클라우드 보안가이드라인 작성 프로젝트, 프로젝트 매매니저</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
