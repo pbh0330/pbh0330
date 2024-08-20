@@ -9,7 +9,7 @@
 <p align="center" dir="auto">
 </p><p align="center" dir="auto">
 <div align=center> 
-  <img src=https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -44,7 +44,7 @@
 <tr>
 <tr>
 <td>소방청 체력개선시험 국민참여단</td>
-<td>2023.08 </td>
+<td>2024.08 </td>
 <td>소방청 체력개선 시험 참여 및 정책 제언</td>
 </tr>
 <tr>
