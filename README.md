@@ -82,7 +82,7 @@
 <tbody>
 <tr>
 <td>2021.05 ~ 2024.03　</td>
-<td>수학적 모델링을 이용한 뱀로봇 제작 '<a href="http://www.rne.or.kr/gnuboard5/teen_search/141"></a>' R&E 연구 팀장</td>
+<td>수학적 모델링을 이용한 뱀로봇 제작 '<a href="http://www.rne.or.kr/gnuboard5/teen_search/141">R&E</a>' 연구 팀장</td>
 </tr>
 <tr>
 <td>2024.09 ~ 12　</td>
