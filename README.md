@@ -69,6 +69,11 @@
 <td>2024.07 ~</td>
 <td>개인정보 불법유통 신고</td>
 </tr>
+</tr>
+<td>국토교통부 온라인 패널</td>
+<td>2024.09 ~</td>
+<td>국토교통부 정책 제언 및 의견 수립립</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📃 Projects</h3><a id="user-content--projects" class="anchor" aria-label="Permalink: 📃 Projects" href="#-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -85,15 +90,19 @@
 <td>수학적 모델링을 이용한 뱀로봇 제작 <a href="http://www.rne.or.kr/gnuboard5/teen_search/141"> R&E</a> 연구 팀장</td>
 </tr>
 <tr>
-<td>2024.05 ~ 07</td>
+<td>2023.05 ~ 2023.07</td>
 <td>딥러닝 기반 스플라인 보간법 개발</td>
 </tr>
-<td>2024.09 ~ 12　</td>
+<td>2024.09 ~ 2023.12　</td>
 <td>RoseTTA fold 구현 및 alpha 폴드 구현</a>' 생명과학 및 정보과학 멘토</td>
 </tr>
 <tr>
-<td>2024.10 ~ 12</td>
+<td>2023.10 ~ 2023.12</td>
 <td>CNN을 이용한 재난현장 신체인식 개발</td>
+</tr>
+<tr>
+<td>2024.05 ~ 2024.07</td>
+<td>CSPM 개발 및 클라우드 보안가이드라인 작성, 프로젝트 리더</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
