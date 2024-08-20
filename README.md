@@ -138,8 +138,7 @@
 </table></markdown-accessiblity-table>
 <br>
 <p
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gbs17_byeongha)](https://solved.ac/{gbs17_byeongha})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gbs17_byeongha)](https://solved.ac/{gbs17_byeongha})
 </p>
   </div>
 
