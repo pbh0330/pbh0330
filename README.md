@@ -1,69 +1,71 @@
-Welcome 👋
+<!--타이틀 부분-->
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-Kookmin University, BCS (2019.03 ~ )
-Self-Driving Research and Development Club, FOSCAR (2021.12 ~ )
-Next Generation Security Leader Training Program, WHS(White Hat School) (2024.3 ~ )
-💪 Tech Stack 💪
-                
+<div align="center">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-           
-🏢 Experience
-소속	활동 기간	내용
-FOSCAR(자율주행연구동아리)	2021.12 ~	자율주행경진대회 참가 및 스터디 진행 / 2022년 부회장
-LG Aimers 2기	2023.01 ~ 2020.02	교육생 수료, 스마트공장제품품질상태분류 해커톤 참가
-국민대학교 기계학습 연구실	2023.02 ~ 2020.07	학부 연구생, CV model (CNN, VAE 기반 모델) 논문 스터디 및 서베이 작성
-디스페이스코리아	2023.06 ~ 2023.08	Yolo v3 model base KPI calculator 구현 및 RTMaps tool 성능 문서화 작업
-화이트햇 스쿨(WHS) 2기	2024.03 ~	교육생, 정보보호 이론 교육 및 프로젝트 진행
-📃 Projects
-기간	내용
-2023.07 ~ 2023.12　	대학생들을 위한 동아리 관리 플랫폼 서비스 '우리동방(ourdongbang)' 프론트엔드 담당 및 팀장
-2024.02 ~ 06　	AI에게 말하는 나의 하루일기 '아니 근데 오늘 진짜' 보안,프론트 담당 및 팀장
-2024.05 ~ 07	ASAP - 앱 취약점 분석 자동화 도구 - 개발 총괄(스캐너 웹 풀스택, 취약점 스캐너 모듈 개발)
-🏆 Awards
-수상 년월	발행 기관	내용
-2022.10	한국교통안전공단	2022 대학생 창작 자동차 경진대회 - 자율주행부문 장려상
-2022.11	경기산학융합원, 서울대학교	2022 Future Mobility Urban Challenge - 혁신상
-2023.6	국제전기자동차엑스포	국제 대학생 EV자율주행 경진대회 - Autonomous Driving Simulation Challenge 부문 우수상
-2024.02	미래자동차 혁신융학대학	2023 동계 혁신융합대학 가상환경 기반 자율주행 경진대회 - 장려상
+<br>
 
-                                                                 Solved.ac 프로필
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
 
-PinnedLoading
- future-mobility-technology-challenge-2022 Public
-Forked from jehyngn/FMTC_2022
+<br>
 
-2022 Future Mobility Urban Challenge
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
 
- Jupyter Notebook  1
+<br>
 
- international-student-car-competition-2022 Public
-Forked from Jivv0n/ISCC_2022
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
 
-2022 국제 대학생 창작자동차 경진대회
+<div align="center">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
 
- Makefile  1
+<br>
 
- ISEV_2023 Public
-제2회 국제대학생 EV 자율주행 경진대회 ADSC
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
 
- C++  1
+<br>
 
- hyunjoon0208/Sparkle Public
-제 3회 2023 동계 혁신융합대학 미래자동차 가상환경 기반 자율주행 경진대회
-
- C++  1  3
-
- capstone Public
-Forked from kookmin-sw/capstone-2024-13
-
-아니 근데 오늘 진짜 (AI 대화형 일기 서비스)
-
- TypeScript
-
- ourdongbang Public
-Forked from UuuuuuuDong/ourdongbang
-
-대학교 동아리 플랫폼 '우리동방'
-
- TypeScript
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
