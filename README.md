@@ -36,7 +36,7 @@
 <tbody>
 <tr>
 <td>LAON ZENA(응용수학 동아리)</td>
-<td>2021.12 ~<024.03
+<td>2021.12 ~2024.03
 <td>수학 세미나 및 Python 스터디 진행 / 2021년~2023 기장</td>
 </tr>
 <tr>
@@ -113,24 +113,28 @@
 </thead>
 <tbody>
 <tr>
-<td>2022.10</td>
-<td>한국교통안전공단</td>
-<td>2022 대학생 창작 자동차 경진대회 - 자율주행부문 장려상</td>
+<td>2021.11</td>
+<td>경기북과학고등학교장</td>
+<td>교내 프로그래밍 챌린지 - 우수상</td>
 </tr>
 <tr>
 <td>2022.11</td>
-<td>경기산학융합원, 서울대학교</td>
-<td>2022 Future Mobility Urban Challenge - 혁신상</td>
+<td>경기도 교육감</td>
+<td>경기도과학전람회 - 산업 및 에너지 부문 장려상</td>
 </tr>
 <tr>
-<td>2023.6</td>
-<td>국제전기자동차엑스포</td>
-<td>국제 대학생 EV자율주행 경진대회 - Autonomous Driving Simulation Challenge 부문 우수상</td>
+<td>2023.01</td>
+<td>과학기술정보통신부장관</td>
+<td>과학영재 창의연구(R&E) - 수학 부문 최우수상</td>
+</tr>
+<td>2023.01</td>
+<td>한국과학창의재단</td>
+<td>과학영재 창의연구(R&E) - 수학 부문 우수논문 기제</td>
 </tr>
 <tr>
 <td>2024.02</td>
-<td>미래자동차 혁신융학대학</td>
-<td>2023 동계 혁신융합대학 가상환경 기반 자율주행 경진대회 - 장려상</td>
+<td>통일부장관</td>
+<td>통일부 서포터즈 - 북한인권부문 최우수상</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
