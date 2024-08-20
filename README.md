@@ -137,7 +137,10 @@
 </tbody>
 </table></markdown-accessiblity-table>
 <br>
-<p dir="auto"><a href="https://solved.ac/gbs17_byeongha/" rel="nofollow" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gbs17_byeongha" style="max-width: 100%;"></a></p>
+<p
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gbs17_byeongha)](https://solved.ac/{gbs17_byeongha})
+</p>
   </div>
 
 
