@@ -141,8 +141,6 @@
 </article>
 
   </div>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gbs17_Byeongha)](https://solved.ac/gbs17_Byeongha)
-
 
 </div>
 
