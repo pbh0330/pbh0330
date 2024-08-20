@@ -96,7 +96,7 @@
 </tr>
 <tr>
 <td>2024.05 ~ 2024.07</td>
-<td><a href="http://www.rne.or.kr/gnuboard5/teen_search/141">CSPM 개발 </a> 및 클라우드 보안가이드라인 작성, 프로젝트 메니저</td>
+<td><a href="https://github.com/gbs17-Byeongha/PROJECT_CLoud">CSPM 개발 </a> 및 클라우드 보안가이드라인 작성 프로젝트, 프로젝트 메니저</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
@@ -127,7 +127,7 @@
 </tr>
 <td>2023.01</td>
 <td>한국과학창의재단</td>
-<td>과학영재 창의연구(R&E) - 수학 부문 우수논문 기제</td>
+<td>과학영재 창의연구(R&E) - 수학 부문 <a href="http://www.rne.or.kr/gnuboard5/teen_search/141"> 우수논문</a> 기제</td>
 </tr>
 <tr>
 <td>2024.07</td>
