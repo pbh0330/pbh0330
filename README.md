@@ -85,13 +85,13 @@
 <td>수학적 모델링을 이용한 뱀로봇 제작 <a href="http://www.rne.or.kr/gnuboard5/teen_search/141"> R&E</a> 연구 팀장</td>
 </tr>
 <tr>
+<td>2024.05 ~ 07</td>
+<td>딥러닝 기반 스플라인 보간법 개발</td>
+</tr>
 <td>2024.09 ~ 12　</td>
 <td>RoseTTA fold 구현 및 alpha 폴드 구현</a>' 생명과학 및 정보과학 멘토</td>
 </tr>
 <tr>
-<td>2024.05 ~ 07</td>
-<td>딥러닝 기반 스플라인 보간법 제작</td>
-</tr>
 <td>2024.10 ~ 12</td>
 <td>CNN을 이용한 재난현장 신체인식 개발</td>
 </tr>
