@@ -96,7 +96,7 @@
 </tr>
 <tr>
 <td>2024.05 ~ 2024.07</td>
-<td>CSPM 개발 및 클라우드 보안가이드라인 작성, 프로젝트 리더</td>
+<td><a href="http://www.rne.or.kr/gnuboard5/teen_search/141">CSPM 개발 </a> 및 클라우드 보안가이드라인 작성, 프로젝트 메니저</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
